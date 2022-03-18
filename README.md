@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a researcher in AI and machine learning. I am interested in *generalizable, adaptable and transferable AI*. See my [homepage](https://kaiyangzhou.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=gRIejugAAAAJ) for more about me and my research. :)
+I am a researcher in AI, machine learning and computer vision. I am interested in *generalizable, adaptable and transferable AI*. See my [homepage](https://kaiyangzhou.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=gRIejugAAAAJ) for more about me and my research. :)
 
 <!--
 **KaiyangZhou/KaiyangZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
