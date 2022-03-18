@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a researcher in AI and machine learning. I am interested in *generalizable, adaptable and transferable AI*. See my [homepage](https://kaiyangzhou.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=gRIejugAAAAJ) for more about me and my research. :)
+
 <!--
 **KaiyangZhou/KaiyangZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![KaiyangZhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiyangzhou)](https://github.com/anuraghazra/github-readme-stats)
