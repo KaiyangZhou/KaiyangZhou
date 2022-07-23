@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a researcher in AI, machine learning, deep learning, and computer vision. See my [homepage](https://kaiyangzhou.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=gRIejugAAAAJ) for more about me and my research. :)
+I am a researcher in AI, machine learning, deep learning, and computer vision.
 
-Please follow my [Twitter](https://twitter.com/kaiyangzhou) if you would like to get the latest updates about my research and open-source projects.
+See my [homepage](https://kaiyangzhou.github.io/) or [Google Scholar](https://scholar.google.com/citations?user=gRIejugAAAAJ) for more about me and my research. :)
+
+Please follow my [Twitter](https://twitter.com/kaiyangzhou) / [Zhihu](https://www.zhihu.com/people/kzhou-ai) if you would like to receive the latest updates about my research and open-source projects.
 
 <!--
 **KaiyangZhou/KaiyangZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
